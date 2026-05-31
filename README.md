@@ -37,8 +37,7 @@ completed, and problems encountered along the way.
 | 4 | Created public GitHub repository: growth-marketing-portfolio | ✅ Done |
 | 5 | Cloned repository and opened in Cursor | ✅ Done |
 | 6 | Created and populated this README.md | ✅ Done |
-| 7 | Committed and pushed to GitHub | ⏳ In progress |
-
+| 7 | Committed and pushed to GitHub | ✅ Done |
 ---
 
 ## Issues Encountered & How I Solved Them
